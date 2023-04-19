@@ -1,0 +1,27 @@
+body{
+    font-family: "Verdana", "Times New Roman", sans-serif;
+    
+}
+h1,
+h2{
+    text-align: center;
+    color: red;
+}
+
+li{
+    font-size: 20px;
+    font-style: italic;
+}
+
+img{
+    height: auto;
+    width: 400px;
+    text-align: center;
+}
+
+.title{
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
